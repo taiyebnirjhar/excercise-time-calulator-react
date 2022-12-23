@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Push-ups",
+    "id": 1,
+    "paragraph": "Here's how to do a perfect push-up: From a face-down position, place your hands slightly wider than shoulder-width apart. Place your toes or knees on the floor, and try to create a perfect diagonal with your body, from the shoulders to the knees or feet. Keep the glutes [rear-end muscles] and abdominals engaged. Then lower and lift your body by bending and straightening your elbows, keeping your torso stable throughout.",
+    "time": "300s",
+    "img": "https://images.unsplash.com/photo-1566351557863-467d204a9f8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "title": "Squats",
+    "id": 2,
+    "paragraph": "For perfect form, keep feet shoulder-width apart and back straight. Bend knees and lower your rear, says Cotton: 'The knee should remain over the ankle as much as possible.'",
+    "time": "420s",
+    "img": "https://images.unsplash.com/photo-1536922246289-88c42f957773?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1504&q=80"
+  },
+  {
+    "title": "Lunges",
+    "id": 3,
+    "paragraph": "Here's how to do them right: Take a big step forward, keeping your spine in a neutral position. Bend your front knee to approximately 90 degrees, focusing on keeping weight on the back toes and dropping the knee of your back leg toward the floor.",
+    "time": "120s",
+    "img": "https://images.unsplash.com/photo-1540474527619-218b6018f891?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1460&q=80"
+  },
+  {
+    "title": "Abdominal Crunches",
+    "id": 4,
+    "paragraph": "For a standard crunch, says Cotton, begin lying on your back with feet flat on the floor and fingertips supporting your head. Press your low back down and begin the exercise by contracting abdominals and peeling first your head (tucking your chin slightly), then your neck, shoulders, and upper back off the floor.",
+    "time": "180s",
+    "img": "https://images.unsplash.com/photo-1532384555668-bc0c32a17ffd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "title": "Bent-over Row",
+    "id": 5,
+    "paragraph": "Here's how to do it with good form. Stand with feet shoulder-width apart, then bend knees and flex forward at the hips. (If you have trouble doing this exercise standing up, support your weight by sitting on an incline bench, facing backward.) Tilt your pelvis slightly forward, engage the abdominals, and extend your upper spine to add support.",
+    "time": "60s",
+    "img": "https://images.unsplash.com/photo-1522898467493-49726bf28798?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "title": "Interval training",
+    "id": 6,
+    "paragraph": "The way to do it is to push the intensity or pace for a minute or two, then back off for anywhere from two to -10 minutes (depending on how long your total workout will be, and how much time you need to recover). Continue doing this throughout the workout.",
+    "time": "300s",
+    "img": "https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  }
+]
